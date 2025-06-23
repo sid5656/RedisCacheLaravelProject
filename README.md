@@ -18,8 +18,8 @@ This is a Laravel-based RESTful API project featuring user authentication (regis
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd redp
+   git clone https://github.com/sid5656/RedisCacheLaravelProject.git
+   cd RedisCacheLaravelProject
    ```
 
 2. **Install dependencies**
